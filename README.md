@@ -18,9 +18,9 @@ Features
 
 🧰 Tech Stack
 
-Backend | Flask (Python)
-Deep Learning | YOLO (ONNX model)
-Computer Vision | OpenCV
-Configuration | PyYAML
-Frontend (Optional) | React + Vite
-Language | Python 3.x
+Backend | Flask (Python).
+Deep Learning | YOLO (ONNX model).
+Computer Vision | OpenCV.
+Configuration | PyYAML.
+Frontend (Optional) | React + Vite.
+Language | Python 3.x.
